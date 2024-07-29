@@ -213,7 +213,7 @@ html, body {
 }
 
 #subscribe {
-   
+
     color: #fff;
     padding: 20px 30px;
     padding-bottom: 7vw;
@@ -221,6 +221,7 @@ html, body {
 }
 #subscribe button{
     border: none;
+    border: radius 10px; ;
     background: #000;
     color: #fff;
 }
