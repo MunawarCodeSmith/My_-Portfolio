@@ -96,3 +96,10 @@ document.querySelectorAll(".elem").forEach(function (elem) {
     });
   });
 });
+
+const subscribe = document.querySelector('#subscribe');
+subscribe.addEventListener("click",(e) => {
+  alert("Sorry ");
+});
+ 
+

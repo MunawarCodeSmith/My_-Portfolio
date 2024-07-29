@@ -219,6 +219,11 @@ html, body {
     padding-bottom: 7vw;
     background-color: black;
 }
+#subscribe button{
+    border: none;
+    background: #000;
+    color: #fff;
+}
 
 #subscribe h5 {
     text-transform: uppercase;
