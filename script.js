@@ -98,7 +98,7 @@ document.querySelectorAll(".elem").forEach(function (elem) {
 
 const subscribe = document.querySelector('#subscribe');
 subscribe.addEventListener("click",(event) => {
-  alert("Sorry, I Will Upload It Very Soon");
+  alert("Hi ,I Will Upload It Very Soon");
 });
  
 
